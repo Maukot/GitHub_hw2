@@ -1,0 +1,23 @@
+Bug ID:
+Title: 
+Tester: 
+Date: 
+Project: 
+Component: 
+Version: 
+
+Bug description
+  Summary: 
+  Expected result: 
+  Actual result: 
+Steps to reproduce
+  1. 
+  2. 
+Attachment: 
+Environment: 
+
+Administrative
+  Severity: 
+  Priority: 
+  Assigned to:
+  Bug status:
